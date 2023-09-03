@@ -1,4 +1,5 @@
-#**Audio classification using deep learning**#
+**Audio classification using deep learning**
+--------------------------------------------
 
 This is my project on **Audio classification using deep learning**. 
 In this project I have used ANN to clasify the audio from 10 categories.
@@ -16,13 +17,13 @@ All excerpts are taken from field recordings uploaded to www.freesound.org. The 
 (folders named fold1-fold10) to help in the reproduction of and comparison with the automatic classification results
 reported in the article above.
 The class of data present in the dataset are :- 
-0 = air_conditioner
-1 = car_horn
-2 = children_playing
-3 = dog_bark
-4 = drilling
-5 = engine_idling
-6 = gun_shot
-7 = jackhammer
-8 = siren
+0 = air_conditioner /
+1 = car_horn/
+2 = children_playing/
+3 = dog_bark/
+4 = drilling/
+5 = engine_idling/
+6 = gun_shot/
+7 = jackhammer/
+8 = siren/
 9 = street_music
